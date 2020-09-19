@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**yangfengzzz/yangfengzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-[![yangfengzzz's github stats](https://github-readme-stats.vercel.app/api?username=yangfengzzz&show_icons=true&hide_border=true)]
+[![yangfengzzz's github stats](https://github-readme-stats.vercel.app/api?username=yangfengzzz&show_icons=true&hide_border=true)](https://github.com/yngfengzzz)
 
 Here are some ideas to get you started:
 
@@ -16,6 +13,9 @@ Here are some ideas to get you started:
 - Game Physics
 - Computer Graphics
 - Fluid Simulation
+
+<!--
+**yangfengzzz/yangfengzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
