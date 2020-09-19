@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi! Welcome to my Github profile! 👋
+
+[![Gmail Badge](https://img.shields.io/badge/Microsoft-Outlook-0078d4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:yangfengzzz@hotmail.com)](mailto:yangfengzzz@hotmail.com)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/feng-yangzzz/)](https://www.linkedin.com/in/feng-yangzzz/)
 
