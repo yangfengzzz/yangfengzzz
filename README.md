@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![yangfengzzz's github stats](https://github-readme-stats.vercel.app/api?username=yangfengzzz&show_icons=true&hide_border=true)](https://github.com/yngfengzzz)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/feng-yangzzz/)](https://www.linkedin.com/in/feng-yangzzz/)
 
-Here are some ideas to get you started:
+[![yangfengzzz's github stats](https://github-readme-stats.vercel.app/api?username=yangfengzzz&show_icons=true&hide_border=true)](https://github.com/yngfengzzz)
 
 ### 🔭 I’m currently working on 
 - Peking University since Sep 2015
