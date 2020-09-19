@@ -16,7 +16,7 @@
 - Computer Graphics
 - Fluid Simulation
 
-### 👯 I’m Big a fans of Voxel Engine and looking to collaborate on ...
+### 👯 I’m a big fans of Voxel Engine and looking to collaborate on ...
 - Voxel Engine Development including Physics and Rendering
 - Distributed Computing and Rendering
 
