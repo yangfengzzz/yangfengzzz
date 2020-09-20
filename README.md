@@ -1,4 +1,4 @@
-### Hi! Welcome to my Github profile! 👋
+### Hi! Welcome to my Github profile!  👋
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyangfengzzz&count_bg=%2379C83D&title_bg=%23555555&icon=skyliner.svg&icon_color=%23F3EDED&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Zhihu Badge](https://img.shields.io/badge/-Zhihu-0084FF?style=flat-square&logo=Zhihu&logoColor=white&link=https://zhuanlan.zhihu.com/c_1026053199056265216)](https://zhuanlan.zhihu.com/c_1026053199056265216)
@@ -17,6 +17,8 @@
 - Game Physics
 - Computer Graphics
 - Fluid Simulation
+
+You can find details and results of physical simulations in my **Zhihu and Bilibili channel!**
 
 ### 👯 I’m a big fans of Voxel Engine and looking to collaborate on ...
 - Voxel Engine Development including Physics and Rendering
