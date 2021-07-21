@@ -9,7 +9,7 @@
 [![yangfengzzz's github stats](https://github-readme-stats.vercel.app/api?username=yangfengzzz&show_icons=true&hide_border=true)](https://github.com/yngfengzzz)
 
 ### 🔭 I’m currently working on 
-- Peking University since Sep 2015
+- Ant Group RichLab
 
 ### 🌱 I’m currently learning 
 - Rust Typescript
