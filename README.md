@@ -12,7 +12,7 @@
 - Peking University since Sep 2015
 
 ### 🌱 I’m currently learning 
-- C++ Swift
+- Rust Typescript
 - GPGPU
 - Game Physics
 - Computer Graphics
