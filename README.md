@@ -8,8 +8,17 @@
 
 [![yangfengzzz's github stats](https://github-readme-stats.vercel.app/api?username=yangfengzzz&show_icons=true&hide_border=true)](https://github.com/yngfengzzz)
 
-### 🔭 I’m currently working on 
-- Ant Group RichLab
+
+### [ArcheSpace](https://github.com/ArcheSpace)
+I'm building cross-platform engine based on WebGPU:
+1. Native(Dawn): [Arche-cpp](https://github.com/ArcheSpace)
+2. Web: [Arche.js](https://github.com/ArcheSpace/Arche.js)
+
+You can read code in [apps](https://github.com/ArcheSpace/Arche-cpp/tree/main/apps) to find the feature in these
+code, like physx and shadow(WIP):
+![PhysX](https://github.com/yangfengzzz/DigitalVoxEffect/raw/main/doc/img/physx.gif "PhysX")
+
+You can also redirect to [repos](https://github.com/yangfengzzz/DigitalVoxEffect) to see more effects.
 
 ### 🌱 I’m currently learning 
 - WebGPU
@@ -32,14 +41,3 @@ You can find details and results of physical simulations in my **Zhihu and Bilib
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### [ArcheSpace](https://github.com/ArcheSpace)
-I'm building cross-platform engine based on WebGPU:
-1. Native(Dawn): [Arche-cpp](https://github.com/ArcheSpace)
-2. Web: [Arche.js](https://github.com/ArcheSpace/Arche.js)
-
-You can read code in [apps](https://github.com/ArcheSpace/Arche-cpp/tree/main/apps) to find the feature in these
-code, like physx and shadow(WIP):
-![PhysX](https://github.com/yangfengzzz/DigitalVoxEffect/raw/main/doc/img/physx.gif "PhysX")
-
-You can also redirect to [repos](https://github.com/yangfengzzz/DigitalVoxEffect) to see more effects.
