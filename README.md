@@ -10,18 +10,18 @@
 
 
 ### [ArcheGraphics](https://github.com/ArcheGraphics)
-I'm building cross-platform engine based on WebGPU:
-1. Native(Dawn): [Arche-cpp](https://github.com/ArcheGraphics)
-2. Web: [Arche.js](https://github.com/ArcheGraphics/Arche.js)
+I'm building cross-platform engine based on Metal and Swift:
+1. SwiftArche: [SwiftArche](https://github.com/ArcheGraphics/SwiftArche)
+2. HydraArche: [HydraArche](https://github.com/ArcheGraphics/HydraArche)
 
-You can read code in [apps](https://github.com/ArcheGraphics/Arche-cpp/tree/main/apps) to find the feature in these
+You can read code in [apps](https://github.com/ArcheGraphics/SwiftArche/tree/main/SwiftArcheMac) to find the feature in these
 code, like physx and shadow(WIP):
 ![PhysX](https://github.com/yangfengzzz/DigitalVoxEffect/raw/main/doc/img/physx.gif "PhysX")
 
-You can also redirect to [repos](https://github.com/yangfengzzz/DigitalVoxEffect) to see more effects.
+You can also redirect to [repos](https://github.com/ArcheGraphics/Demo) to see more effects.
 
 ### 🌱 I’m currently learning 
-- WebGPU
+- Metal
 - GPGPU
 - Game Physics
 - Computer Graphics
