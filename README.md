@@ -10,9 +10,9 @@
 
 
 ### [ArcheGraphics](https://github.com/ArcheGraphics)
-I'm building cross-platform engine based on Metal and Swift:
+I'm building cross-platform engine based on Metal:
 1. SwiftArche: [SwiftArche](https://github.com/ArcheGraphics/SwiftArche)
-2. HydraArche: [HydraArche](https://github.com/ArcheGraphics/HydraArche)
+2. HydraViewer: [HydraArche](https://github.com/ArcheGraphics/HydraViewer)
 
 You can read code in [apps](https://github.com/ArcheGraphics/SwiftArche/tree/main/SwiftArcheMac) to find the feature in these
 code, like physx and shadow(WIP):
