@@ -47,4 +47,5 @@ You can find details and results of physical simulations in my **Zhihu and Bilib
 2. [VLAWiki](https://github.com/yangfengzzz/VLAWiki) Vision Language Action Model Wiki
 3. [WAMWiki](https://github.com/yangfengzzz/WAMWiki) World Action Model Wiki
 4. [WorldWiki](https://github.com/yangfengzzz/WorldWiki) Reconstruction and Generation Method Wiki
-5. [CompianceWiki](https://github.com/yangfengzzz/ComplianceWiki) Compliance Control Wiki
+5. [JEPAWiki](https://github.com/yangfengzzz/JEPAWiki) JEPA World Model Wiki
+6. [CompianceWiki](https://github.com/yangfengzzz/ComplianceWiki) Compliance Control Wiki
